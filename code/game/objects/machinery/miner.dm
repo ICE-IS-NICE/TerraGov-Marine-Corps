@@ -12,8 +12,8 @@
 
 #define PHORON_CRATE_SELL_AMOUNT 150
 #define PLATINUM_CRATE_SELL_AMOUNT 300
-#define PHORON_DROPSHIP_BONUS_AMOUNT 15
-#define PLATINUM_DROPSHIP_BONUS_AMOUNT 30
+#define PHORON_DROPSHIP_BONUS_AMOUNT 50
+#define PLATINUM_DROPSHIP_BONUS_AMOUNT 100
 ///Resource generator that produces a certain material that can be repaired by marines and attacked by xenos, Intended as an objective for marines to play towards to get more req gear
 /obj/machinery/miner
 	name = "\improper Nanotrasen phoron Mining Well"
